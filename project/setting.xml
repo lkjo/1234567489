@@ -1,0 +1,5 @@
+<data>
+    <money>10000</money><!--每個月存多少-->
+    <interest>12</interest><!--月息-->
+    <month>12</month><!--經過幾個月-->
+</data>
